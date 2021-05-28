@@ -4,7 +4,7 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| growth minedset  |   |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
