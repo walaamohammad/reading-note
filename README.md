@@ -11,4 +11,4 @@
 | wireframe | [wireframe](https:///walaamohammad.github.io/reading-note/wireframe&html)|
 | javascript&html| [javascript&html](https:///walaamohammad.github.io/reading-note/javascripts) |
 | Read5| [Loops and Operators](https:///walaamohammad.github.io/reading-note/read5) |
-| css web desighn| [web page design with css](https:///walaamohammad.github.io/reading-note/) |
+| css web design| [web page design with css](https://walaamohammad.github.io/css-desighn/) |
