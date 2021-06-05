@@ -1,6 +1,5 @@
-### All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
-### ` You can see the HTML code for this page below :`
-
+## All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
+` You can see the HTML code for this page below :`
 > ` <html> ` 
 
   `<body> `
@@ -26,34 +25,30 @@ This text might be an introduction to the rest of
 `</body>`
 
 `</html>`
-* The HTML code (in ` red `) is made up of characters that live inside angled
-brackets — these are called` HTML elements`. Elements are usually
+*  The HTML code (in ` red `) is made up of characters that live inside angled
+brackets â€” these are called` HTML elements`. Elements are usually
 made up of two tags: an opening tag and a closing tag. (The closing tag
 has an extra forward slash in it.) Each HTML element tells the browser
 something about the information that sits between its opening and
 closing tags.
 ![HTML Elements](https://tutorial.techaltum.com/images/element.png)
-`______________________________________________________________`
 
+`_______________________________________________`
 A `Java` program is made up of classes and objects, which in turn are made up of methods and variables. Methods are made up of statements and expressions, which are made up of operators.
 
-
-
-The following subjects are importants in Java :
+> The following subjects are importants in Java :
 
 * Java statements and expressions
-
-* Variables and data types
-
+* ariables and data types
 * Constants
-
-* Comments
-
+* omments
 * Literals
-
 * Arithmetic
-
 * Comparisons
-
 * Logical operators
-![JAVA](https://artoftesting.com/wp-content/uploads/2020/03/Basics-of-Java-programming-1280x720.jpg)
+
+![java](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/06/Java-Syntax-tv.jpg)
+
+
+
+
