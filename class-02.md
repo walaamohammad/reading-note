@@ -1,22 +1,23 @@
 ### HTML Formatting Elements
 Formatting elements were designed to display special types of text:
 
-*  <b> Bold text
+*  Bold text<b> 
 
-* <strong>  Important text
+* Important text<strong>  
  
- * <i>Italic text
-* <em>  Emphasized text
-* <mark>  Marked text
-* <small> Smaller text
-* <del>  Deleted text
-* <ins>Inserted text
-* <sub> Subscript text
-* <sup> Superscript text
+ * Italic text<i>
+*   Emphasized text<em>
+*   Marked text<mark>
+*  Smaller text<small>
+*   Deleted text<del>
+* Inserted text<ins>
+*  Subscript text<sub>
+*  Superscript text<sup>
 
-_________________________________________________________________
 
-_______________________________
+_____________________________________________________________
+
+______________________________
 
 ### CSS
 allows you to create rules that specify how the content of
