@@ -7,7 +7,7 @@
 | ------------- | ------------- |---|
 | 1  |[growthminedset](http://walaamohammad.github.io/reading-note/growthminedset) |[class-01.md](http://walaamohammad.github.io/reading-note/class-01) |
 | 2 |[markdown](https:///walaamohammad.github.io/reading-note/markdown)| [class-02.md](http://walaamohammad.github.io/reading-note/class-02)| 
-|3 |[wireframe](https:///walaamohammad.github.io/reading-note/wireframe&html )|   (To be add)|  
+|3 |[wireframe](https:///walaamohammad.github.io/reading-note/wireframe&html )|   [class-03](http://walaamohammad.github.io/reading-note/class-03)|  
 | 4 | [javascript&html](https:///walaamohammad.github.io/reading-note/javascripts)|   (To be add)|   
 |5 | [Loops and Operators](https:///walaamohammad.github.io/reading-note/read5) |  (To be add)|
 | 6 | [web page design with css](https://walaamohammad.github.io/css-desighn/) | (To be add) | 
