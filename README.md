@@ -9,7 +9,7 @@
 | 2 |[markdown](https:///walaamohammad.github.io/reading-note/markdown)| [class-02.md](http://walaamohammad.github.io/reading-note/class-02)| 
 |3 |[wireframe](https:///walaamohammad.github.io/reading-note/wireframe&html )|   [class-03.md](http://walaamohammad.github.io/reading-note/class-03)|  
 | 4 | [javascript&html](https:///walaamohammad.github.io/reading-note/javascripts)|  [class-04.md](https:///walaamohammad.github.io/reading-note/class-04)|   
-|5 | [Loops and Operators](https:///walaamohammad.github.io/reading-note/read5) |  (To be add)|
+|5 | [Loops and Operators](https:///walaamohammad.github.io/reading-note/read5) |[class05.md](https:///walaamohammad.github.io/reading-note/class05) |
 | 6 | [web page design with css](https://walaamohammad.github.io/css-desighn/) | (To be add) | 
 |7 | [java](https://walaamohammad.github.io/programming-with-java/) | (To be add) |
 |  8 |  |  (To be add) |
