@@ -11,7 +11,7 @@
 | 4 | [javascript&html](https:///walaamohammad.github.io/reading-note/javascripts)|  [class-04.md](https:///walaamohammad.github.io/reading-note/class-04)|   
 |5 | [Loops and Operators](https:///walaamohammad.github.io/reading-note/read5) |[class05.md](https:///walaamohammad.github.io/reading-note/class05) |
 | 6 | [web page design with css](https://walaamohammad.github.io/css-desighn/) | [class06.md](https:///walaamohammad.github.io/reading-note/class06) | 
-|7 | [java](https://walaamohammad.github.io/programming-with-java/) | (To be add) |
+|7 | [java](https://walaamohammad.github.io/programming-with-java/) | [class07.md](https:///walaamohammad.github.io/reading-note/class07) |
 |  8 |  |  (To be add) |
 |  9 |   | (To be add)   | 
 | 10  |  |  (To be add)   | 
