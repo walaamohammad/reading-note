@@ -1,6 +1,5 @@
 # reading-note
-#### MY NAME IS WALAA BANI MFARREJ 
-* I GRADUATED FRome yarmouk university major in statistic 
+
 
 
 | # | code 301 | Intermediate Software Development |
