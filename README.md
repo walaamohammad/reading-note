@@ -4,12 +4,11 @@
 
 | # | code 301 | Intermediate Software Development |
 | ------------- | ------------- |--                |
-|   1           | [class1]   |    [class1.md](https:///walaamohammad.github.io/reading-note/class1)         |
+|   1           | [class1](https:///walaamohammad.github.io/reading-note/class1)   |    [class1.md](https:///walaamohammad.github.io/reading-note/class1)         |
 | ------------- | ------------- |---               |
-|   2            |      [class2]         |      [class2.md](https:///walaamohammad.github.io/reading-note/class2)             |
+|   2            |      [class2](https:///walaamohammad.github.io/reading-note/class2)      |      [class2.md](https:///walaamohammad.github.io/reading-note/class2)             |
 | ------------- | ------------- |---               |
-
-
+|    3   |    [class3](https:///walaamohammad.github.io/reading-note/class3) |          [class3.md](https:///walaamohammad.github.io/reading-note/class3)                  |
 
 
 
