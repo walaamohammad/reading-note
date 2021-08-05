@@ -106,3 +106,27 @@ If you try to type or check the box in the current version of the example, you�
 
 Let’s think about what we want to happen. We want to make sure that whenever the user changes the form, we update the state to reflect the user input. Since components should only update their own state, FilterableProductTable will pass callbacks to SearchBar that will fire whenever the state should be updated. We can use the onChange event on the inputs to be notified of it. The callbacks passed by FilterableProductTable will call setState(), and the app will be updated.
 
+__________________________________________________________________
+How would you break a mock into a component hierarchy?
+The first thing you’ll want to do is to draw boxes around every component (and subcomponent) in the mock and give them all names. If you’re working with a designer, they may have already done this, so go talk to them! Their Photoshop layer names may end up being the names of your React components!
+
+What is the single responsibility principle and how does it apply to components?
+is a computer-programming principle that states that every module (Links to an external site.), class (Links to an external site.) or function (Links to an external site.) in a computer program (Links to an external site.) should have responsibility over a single part of that program's functionality (Links to an external site.), and it should encapsulate (Links to an external site.) that part. All of that module, class or function's services (Links to an external site.) should be narrowly aligned with that responsibility.[1] (Links to an external site.)
+
+What does it mean to build a ‘static’ version of your application?
+To build a static version of your app that renders your data model, you’ll want to build components that reuse other components and pass data using props. props are a way of passing data from parent to child. If you’re familiar with the concept of state, don’t use state at all to build this static version. State is reserved only for interactivity, that is, data that changes over time. Since this is a static version of the app, you don’t need it.
+
+Once you have a static application, what do you need to add?
+Step 1: Add Your New Site. Creating a new site on Netlify is simple. ...
+Step 2: Link to Your GitHub (or supported version-control tool of choice) ...
+Step 3: Authorize Netlify. ...
+Step 4: Select Your Repo. ...
+Step 5: Configure Your Settings. ...
+Step 6: Build Your Site. ...
+Step 7: All Done.
+What are the three questions you can ask to determine if something is state?
+Is it passed in from a parent via props? If so, it probably isn’t state.
+Does it remain unchanged over time? If so, it probably isn’t state.
+Can you compute it based on any other state or props in your component? If so, it isn’t state.
+How can you identify where state needs to live?
+we’ve decided that our state lives in FilterableProductTable. First, add an instance property this.state = {filterText: '', inStockOnly: false} to FilterableProductTable’s constructor to reflect the initial state of your application. Then, pass filterText and inStockOnly to ProductTable and SearchBar as a prop. Finally, use these props to filter the rows in ProductTable and set the values of the form fields in SearchBar.
