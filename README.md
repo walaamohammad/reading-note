@@ -12,7 +12,7 @@
 |    4 |    [class4](https:///walaamohammad.github.io/reading-note/class4) |          [class4.md](https:///walaamohammad.github.io/reading-note/class4)                  |
 |    5 |    [class5](https:///walaamohammad.github.io/reading-note/class5) |          [class5.md](https:///walaamohammad.github.io/reading-note/class5)                  |
 |    6|    [class6](https:///walaamohammad.github.io/reading-note/class6) |          [class6.md](https:///walaamohammad.github.io/reading-note/class6)                  |
-|   7 |                         |                          |
+|   7 |         [class7](https:///walaamohammad.github.io/reading-note/class7)                   |                      [class7.md](https:///walaamohammad.github.io/reading-note/class7)      |
 |    8 |                                   |             |
 
 
