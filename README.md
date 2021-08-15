@@ -17,7 +17,7 @@
 |    9 |     [class9](https:///walaamohammad.github.io/reading-note/class9)  |    [class9.md](https:///walaamohammad.github.io/reading-note/class9)                | 
 |    10c|     [class10c](https:///walaamohammad.github.io/reading-note/class10c)  |    [class10c.md](https:///walaamohammad.github.io/reading-note/class10c)                |    
 |    11c|     [class11c](https:///walaamohammad.github.io/reading-note/class11c)  |    [class11c.md](https:///walaamohammad.github.io/reading-note/class11c)                |      
-
+|    12c|     [class12c](https:///walaamohammad.github.io/reading-note/class12c)  |    [class12c.md](https:///walaamohammad.github.io/reading-note/class12c)                |  
 
 
 
