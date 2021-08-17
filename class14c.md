@@ -8,7 +8,7 @@ The share of women in computer science started falling at roughly the same momen
 that most of males were way ahead of females because they’d grown up playing with computers.
 ### What three take-a-ways do you have looking at this data?
 * Entity
-* famela
+* female
 * male
 ________________________________________________
 ### When are diversity efforts most successful?
