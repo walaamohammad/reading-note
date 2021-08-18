@@ -20,6 +20,7 @@
 |    12c|     [class12c](https:///walaamohammad.github.io/reading-note/class12c)  |    [class12c.md](https:///walaamohammad.github.io/reading-note/class12c)                |  
 |    13c|     [class13c](https:///walaamohammad.github.io/reading-note/class13c)  |    [class13c.md](https:///walaamohammad.github.io/reading-note/class13c)                |  
 |    14c|     [class14c](https:///walaamohammad.github.io/reading-note/class14c)  |    [class14c.md](https:///walaamohammad.github.io/reading-note/class14c)                |  
+|    15d|     [class15d](https:///walaamohammad.github.io/reading-note/class15d)  |    [class15d.md](https:///walaamohammad.github.io/reading-note/class15d)                |  
 
 
 
